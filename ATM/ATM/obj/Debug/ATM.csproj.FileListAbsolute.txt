@@ -1,0 +1,10 @@
+C:\c#\atm\ATM\ATM\bin\Debug\ATM.exe.config
+C:\c#\atm\ATM\ATM\bin\Debug\ATM.exe
+C:\c#\atm\ATM\ATM\bin\Debug\ATM.pdb
+C:\c#\atm\ATM\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+C:\c#\atm\ATM\ATM\obj\Debug\ATM.exe
+C:\c#\atm\ATM\ATM\obj\Debug\ATM.pdb
+C:\c#\atm\ATM\ATM\bin\Debug\FakeData.dll
+C:\c#\atm\ATM\ATM\bin\Debug\FakeData.pdb
+C:\c#\atm\ATM\ATM\bin\Debug\Newtonsoft.Json.dll
+C:\c#\atm\ATM\ATM\bin\Debug\Newtonsoft.Json.xml
